@@ -1,0 +1,2 @@
+positive:goth owhx_woman,  solo,  teeth,  jewelry,  portrait,  looking at viewer,  black hair,  earrings,  piercing,  smile,  gray eyes,  long hair,  makeup,  necklace,  black hair,  sexy,  beautiful,  form_fitting_clothes,  pale_skin
+negative:blurry_woman, nose_ring, nostril_ring, nose_piercing, watermark, text, owl, tattoos, cartoon, drawing, animation, 2d, small_breasts, small_butt, small_hips, big_waist, nude, naked, nipples, fat, obese, overweight, dark_skin, big_smile, ugly
