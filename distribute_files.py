@@ -2,7 +2,7 @@ import os
 import shutil
 
 # Folder containing original .txt files (training0)
-source_folder = r'C:\StableDiffusion\ComfyFlux\ComfyUI_windows_portable\ComfyUI\custom_nodes\comfyui-inspire-pack\prompts\training0'
+source_folder = r'path\ComfyUI\custom_nodes\comfyui-inspire-pack\prompts\[promptfolder]'
 
 # Parent directory (prompts)
 parent_folder = os.path.dirname(source_folder)
